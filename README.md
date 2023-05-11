@@ -1,4 +1,4 @@
-# dio-python
+# Dio-python
 Projeto Python.
 Projeto com o objetivo de estudar conceitos intermediários ensinados pelo curso da DIO. 
 Segue principais tópicos: 
